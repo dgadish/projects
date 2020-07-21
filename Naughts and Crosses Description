@@ -1,0 +1,14 @@
+This code is for the first milestone project in the Udemey '2020 Complete Python Bootcamp: From Zero to Hero in Python' course led by Jose Portilla. 
+I attempted the project with as little guidance as possible from the course notes. 
+I took some guidance from the walk through notebook provided which can be found at 
+https://github.com/Pierian-Data/Complete-Python-3-Bootcamp/blob/master/04-Milestone%20Project%20-%201/02-Milestone%20Project%201%20-%20Walkthrough%20Steps%20Workbook.ipynb
+
+Having gone through the solution provided, there are some similarities and some differences between my code and the solution.
+In general, the given solution is sleeker and more efficient, especialy in the game script. However, I believe a few of my custom functions are on par with those given.
+
+The code successfuly produces a naughts and crosses or 'tic tac toe' game.
+It allows players to choose 'X' or 'O'.
+It gives a key at the start to show which inputs relate to which positions on the board.
+It randomly selects who goes first.
+It checks for winning moves and for a full board.
+It congratulates the winner and gives the option to play again.
