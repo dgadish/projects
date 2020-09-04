@@ -1,0 +1,6 @@
+This code is the for the guided projected on the Dataquest 'Python for Data Science: Fundamentals' course.
+I have noted in the programme where I have done things alongside the guidance.
+
+The code takes in data on the Apple Store and Google Play markets.
+It cleans the data from the perspective of a company whhich develops free apps aimed at an English speaking audience in both stores.
+It analyses the data to recommend what genre a newly developed app should be in.
