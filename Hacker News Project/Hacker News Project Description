@@ -1,0 +1,7 @@
+This code is the for the guided projected on the Dataquest 'Python for Data Science: Intermediate' course.
+I have noted in the programme where I have done things alongside the guidance.
+
+The code takes in data on the Hacker News Submissions.
+It isolates data on 'ask' and 'show' posts
+It analyses which of the two types of post receives the most number of comments on average.
+It analyses when the best time to post an 'ask' post is in order to receive the most comments on average.
